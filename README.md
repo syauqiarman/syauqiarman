@@ -5,7 +5,7 @@
 </div>
 <hr>
 
-<h3 align="center">A passionate software developer, currently studying at the University of Indonesia!</h3>
+<h3 align="center">A passionate software developer and data science, currently studying at the University of Indonesia!</h3>
 
 <div align="center">
     📫 How to reach me <strong><a href="mailto:syauqiarmanaya@gmail.com">syauqiarmanaya@gmail.com</a></strong>
